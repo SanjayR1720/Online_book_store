@@ -1,0 +1,6 @@
+@EndUserText.label: 'ZZCIR_STORE_DB111111'
+@MappingRole: true
+define role ZZCIR_STORE_DB111111 {
+  grant select on ZZCIR_STORE_DB111111
+  where TRUE;
+}

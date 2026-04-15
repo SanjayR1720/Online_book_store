@@ -1,0 +1,11 @@
+{
+  "formatVersion": "1",
+  "header": {
+    "description": "SAP Object Node Type ZZCISTORE_DB111111",
+    "originalLanguage": "en",
+    "abapLanguageVersion": "cloudDevelopment"
+  },
+  "name": "ZZCISTORE_DB111111",
+  "sapObjectType": "ZZCISTORE_DB111111",
+  "rootNode": true
+}
